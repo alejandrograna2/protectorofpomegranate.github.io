@@ -16,3 +16,6 @@ body {
 .theme-showcase .navbar .container {
   width: auto;
 }
+
+.jumbotron { background-image: url(images/hp.jpg);
+	color: white!important;}
